@@ -62,3 +62,4 @@ Resources:
               source:
               - aws.codepipeline
               - aws.codebuild
+              - aws.codedeploy
